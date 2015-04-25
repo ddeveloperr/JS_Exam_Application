@@ -1,0 +1,15 @@
+
+
+body {
+			background-color: #EEE8AA ;
+	 }
+
+#page-wrap {
+     width: 800px;
+     margin: 120px auto;
+}
+
+
+div#test{ 
+	border:#000 1px solid;
+	padding:10px 40px 40px 40px; }
